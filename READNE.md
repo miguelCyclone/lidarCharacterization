@@ -10,3 +10,5 @@ Characterize two types of Lidars: Ramen and Elastic on different conditions such
 * Day/Night time
 * Telescope
 * Components
+# Formulas
+* The Ramen characterization for the SNR follows the guidelines from the Hammamatsu formulas
